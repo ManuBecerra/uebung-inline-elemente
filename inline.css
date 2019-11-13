@@ -22,9 +22,30 @@ h2{
 
 p{
 	font-size: 1rem;
+	text-align: justify;
 }
 
 .wrapper{
 	margin: 0 auto;
 	width:  600px;
+}
+
+a{
+	display: inline-block;
+	width: 300px;
+}
+
+span{
+	color: red;
+}
+
+/* NOTE: about font- take the attribute from html and changed here.  */
+strong{
+	font-weight: normal;
+}
+
+#bild{
+	float: left;
+	margin-right: 10px;
+
 }
